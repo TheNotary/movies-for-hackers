@@ -35,6 +35,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Anonymous](https://www.imdb.com/title/tt3173594/)                                         | Crime/Drama/Thriller      | 2016 | 6.4/10 |
 | [Antitrust](https://www.imdb.com/title/tt0218817/)                                         | Thriller/Drama            | 2001 | 6.1/10 |
 | [Blackhat](https://www.imdb.com/title/tt2717822/)                                          | Drama/Thriller            | 2015 | 5.4/10 |
+| [Catch Me If You Can](https://www.imdb.com/title/tt0264464/)                               | Biography/Crime/Drama     | 2002 | 8.1/10 |
 | [Enemy of the State](https://www.imdb.com/title/tt0120660/)                                | Thriller/Drama            | 1998 | 7.3/10 |
 | [Hacker's Game](https://www.imdb.com/title/tt3140724/)                                     | Drama/Thriller            | 2015 | 3.8/10 |
 | [Hackers](https://www.imdb.com/title/tt0113243/)                                           | Crime/Drama               | 1995 | 6.2/10 |
